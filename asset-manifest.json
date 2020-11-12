@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%20//monano1234.github.io/tictactoe.git/static/css/main.3cbc51fa.chunk.css",
+    "main.js": "/%20//monano1234.github.io/tictactoe.git/static/js/main.f84a6faa.chunk.js",
+    "main.js.map": "/%20//monano1234.github.io/tictactoe.git/static/js/main.f84a6faa.chunk.js.map",
+    "runtime-main.js": "/%20//monano1234.github.io/tictactoe.git/static/js/runtime-main.76c74b8a.js",
+    "runtime-main.js.map": "/%20//monano1234.github.io/tictactoe.git/static/js/runtime-main.76c74b8a.js.map",
+    "static/css/2.06689f82.chunk.css": "/%20//monano1234.github.io/tictactoe.git/static/css/2.06689f82.chunk.css",
+    "static/js/2.17864ac2.chunk.js": "/%20//monano1234.github.io/tictactoe.git/static/js/2.17864ac2.chunk.js",
+    "static/js/2.17864ac2.chunk.js.map": "/%20//monano1234.github.io/tictactoe.git/static/js/2.17864ac2.chunk.js.map",
+    "index.html": "/%20//monano1234.github.io/tictactoe.git/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/%20//monano1234.github.io/tictactoe.git/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.3cbc51fa.chunk.css.map": "/%20//monano1234.github.io/tictactoe.git/static/css/main.3cbc51fa.chunk.css.map",
+    "static/js/2.17864ac2.chunk.js.LICENSE.txt": "/%20//monano1234.github.io/tictactoe.git/static/js/2.17864ac2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c74b8a.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.17864ac2.chunk.js",
+    "static/css/main.3cbc51fa.chunk.css",
+    "static/js/main.f84a6faa.chunk.js"
+  ]
+}
